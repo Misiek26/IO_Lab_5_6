@@ -6,6 +6,11 @@ import java.util.*
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Check pull request");
         System.out.println("\nDismiss stale reviews");
+        System.out.println("\nDismiss stale reviews");
+        System.out.println("\nDismiss stale reviews");
+        System.out.println("\nDismiss stale reviews");
+        System.out.println("\nDismiss stale reviews");
+        System.out.println("\nDismiss stale reviews");
 
    
 
