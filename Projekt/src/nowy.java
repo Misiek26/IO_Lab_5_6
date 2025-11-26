@@ -8,6 +8,7 @@ import java.util.*
         System.out.println("\nDismiss stale reviews");
         System.out.println("\nDismiss stale reviews");
         System.out.println("\nDismiss stale reviews");
+        System.out.println("\nZMIANA PO REVIEW");
         System.out.println("\nDismiss stale reviews");
         System.out.println("\nDismiss stale reviews");
         System.out.println("\nDismiss stale reviews");
@@ -18,3 +19,4 @@ import java.util.*
 
     }
 }
+
